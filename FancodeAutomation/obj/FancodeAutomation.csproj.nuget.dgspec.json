@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FancodeAutomation\\FancodeAutomation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FancodeAutomation\\FancodeAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FancodeAutomation\\FancodeAutomation.csproj",
+        "projectName": "FancodeAutomation",
+        "projectPath": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FancodeAutomation\\FancodeAutomation.csproj",
+        "packagesPath": "C:\\Users\\P10504001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FancodeAutomation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\P10504001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FanCodeSDETAssingment\\FanCodeSDETAssingment.csproj": {
+                "projectPath": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FanCodeSDETAssingment\\FanCodeSDETAssingment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FanCodeSDETAssingment\\FanCodeSDETAssingment.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FanCodeSDETAssingment\\FanCodeSDETAssingment.csproj",
+        "projectName": "FanCodeSDETAssingment",
+        "projectPath": "C:\\Users\\P10504001\\source\\repos\\FanCodeSDETAssingment\\FanCodeSDETAssingment\\FanCodeSDETAssingment.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
